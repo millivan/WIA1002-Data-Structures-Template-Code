@@ -1,4 +1,4 @@
-package Sorting;
+package SearchNSort;
 
 public class SearchMethod {
     public static int linearSearch(int[] list, int key) {
